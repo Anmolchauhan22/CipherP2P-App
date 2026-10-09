@@ -1,0 +1,6 @@
+{
+  "name": "CipherP2P",
+  "description": "Peer-to-peer encrypted chat and voice calls with 4-5 character short code pairing and end-to-end encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
